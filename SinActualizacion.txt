@@ -1,0 +1,1 @@
+cambie el color de la base y su material aquí pero no se actualizaba, asi que creo esto para aclarar eso 
