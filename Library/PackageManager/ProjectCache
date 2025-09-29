@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638947003022094038
-    m_Hash: 2582713304
+      ticks: 638947055858303725
+    m_Hash: 1783916244
   m_LockFileStatus:
     m_FilePath: C:/Users/LUCIANO/PrimerJuego3D/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638947003022788056
-    m_Hash: 1732563772
+      ticks: 638947055858313851
+    m_Hash: 2647857168
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
