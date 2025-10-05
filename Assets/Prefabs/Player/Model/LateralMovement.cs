@@ -8,3 +8,4 @@ public class LateralMovement : IMovementStrategy
         transform.Translate(moveInX, 0, 0);
     }
 }
+
